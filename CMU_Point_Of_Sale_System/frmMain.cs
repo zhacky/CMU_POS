@@ -20,5 +20,11 @@ namespace CMU_Point_Of_Sale_System
         {
 
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Dialogs.AboutBoxMain about = new Dialogs.AboutBoxMain();
+            about.ShowDialog();
+        }
     }
 }

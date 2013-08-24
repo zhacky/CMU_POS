@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CMU_Point_Of_Sale_System")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CMU Point-Of-Sale System")]
+[assembly: AssemblyDescription("A Comprehensive Point-Of-Sale and Stock Management System for Central Mindanao University.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("CMU_Point_Of_Sale_System")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("i4Links Systems, Inc.")]
+[assembly: AssemblyProduct("CMU Point-Of-Sale System")]
+[assembly: AssemblyCopyright("Copyright © i4Links Systems, Inc. 2013")]
+[assembly: AssemblyTrademark("i4Links")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
