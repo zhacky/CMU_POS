@@ -22,5 +22,16 @@ namespace CMU_Point_Of_Sale_System.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SAMSUNGLAPTOP;Initial Catalog=TestPOS;Persist Security Info=True;User" +
+            " ID=Zhack;Password=backfire")]
+        public string TestPOSConnectionString {
+            get {
+                return ((string)(this["TestPOSConnectionString"]));
+            }
+        }
     }
 }
